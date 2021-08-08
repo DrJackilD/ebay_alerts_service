@@ -1,0 +1,8 @@
+aiocron
+aiohttp
+aiosqlite
+fastapi
+pydantic[email]
+sqlalchemy
+typer
+uvicorn[standard]

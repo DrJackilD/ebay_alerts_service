@@ -1,0 +1,8 @@
+-r common.in
+black
+flake8
+ipython
+isort
+httpx
+pytest
+pytest-asyncio

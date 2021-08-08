@@ -1,0 +1,2 @@
+APP_EBAY_API_KEY="123"
+APP_EBAY_API_URL="https://api.sandbox.ebay.com/buy/browse/v1"
